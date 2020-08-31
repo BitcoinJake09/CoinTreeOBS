@@ -23,8 +23,7 @@ done :D
 ![done](https://github.com/BitcoinJake09/CoinTreeOBS/blob/master/DocPics/LinuxBrowser-Dono.png?width=400&height=225)
 
 
-Example Video:
-![example video](https://www.youtube.com/watch?v=l2LBwKKK1s8?width=400&height=225)
+Example Video: https://www.youtube.com/watch?v=l2LBwKKK1s8
 
 
 if you found this useful and would like to donate please consider doing so on my cointree :D
