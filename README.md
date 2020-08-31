@@ -24,7 +24,7 @@ done :D
 
 
 Example Video:
-![example video](https://www.youtube.com/watch?v=l2LBwKKK1s8)
+![example video](https://www.youtube.com/watch?v=l2LBwKKK1s8?width=400&height=225)
 
 
 if you found this useful and would like to donate please consider doing so on my cointree :D
