@@ -12,7 +12,8 @@ add a linux browser in sources
 change settings how you like or use my recommended settings
 ![settings](https://github.com/BitcoinJake09/CoinTreeOBS/blob/master/DocPics/LinuxBrowser-Settings.png?width=400&height=225)
 
-add custom JS CoinTreeOBS script
+add custom JS CoinTreeOBS script:
+https://github.com/BitcoinJake09/CoinTreeOBS/blob/master/CoinTreeOBS.js
 
 restart the linux browser
 ![restart](https://github.com/BitcoinJake09/CoinTreeOBS/blob/master/DocPics/LinuxBrowser-Restart.png?width=400&height=225)
