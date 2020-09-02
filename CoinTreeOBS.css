@@ -1,0 +1,3 @@
+#root > div > div > div > div > div:first-child { display:none; }
+#root > div > div > div > div > div > div:nth-child(2) { display:none; }
+.rwt__tablist { display:none; }
