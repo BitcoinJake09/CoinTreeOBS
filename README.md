@@ -5,7 +5,6 @@ To display the current last https://cointr.ee/ donation on OBS with Broswer
 
 simply add Broswer source for OBS and point it to your cointree
 
-add a browser in sources
 ![add to sources](https://github.com/BitcoinJake09/CoinTreeOBS/blob/master/DocPics/LinuxBrowser-Sources.png?width=400&height=225)
 
 
