@@ -9,9 +9,10 @@ simply add Broswer source for OBS and point it to your cointree
 
 
 change settings how you like or use my recommended settings
-![settings](https://github.com/BitcoinJake09/CoinTreeOBS/blob/master/DocPics/LinuxBrowser-Settings.png?width=400&height=225)
 
 add custom CSS CoinTreeOBS script:
+![settings](https://github.com/BitcoinJake09/CoinTreeOBS/blob/master/DocPics/LinuxBrowser-Settings.png?width=400&height=225)
+
 https://github.com/BitcoinJake09/CoinTreeOBS/blob/master/CoinTreeOBS.css
 
 restart the browser
